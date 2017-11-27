@@ -3,7 +3,7 @@ from sys import exit
 
 set = raw_input("Liczba setek")
 if set == "0":
-    print "Liczba setek nie moze byc zero!".upper()
+    print "Liczba setek nie moze byc zero!".upper() #dlaczego? a ja chce liczbe 3 miec :P
     exit(0)
 dzie = raw_input("Liczba dziesiątek")
 jed = raw_input("Liczba jednośći")
