@@ -2,9 +2,6 @@
 from sys import exit
 
 set = raw_input("Liczba setek")
-if set == "0":
-    print "Liczba setek nie moze byc zero!".upper()
-    exit(0)
 dzie = raw_input("Liczba dziesiątek")
 jed = raw_input("Liczba jednośći")
 
